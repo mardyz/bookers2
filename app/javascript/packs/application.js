@@ -11,7 +11,9 @@ import "channels"
 import "jquery";
 import "popper.js";
 import "bootstrap";
-import "../stylesheet/application"
+import "../stylesheets/application"
+import '@fortawesome/fontawesome-free/js/all'
+
 
 Rails.start()
 Turbolinks.start()
